@@ -1,7 +1,3 @@
-// Pillole di ortopedia – widget per Scriptable (iPhone)
-// Mostra la lezione del giorno; toccandolo si apre la pagina delle lezioni.
-// Funziona nei formati piccolo, medio e grande.
-
 const SITO = "https://samuel-furlan.github.io/pillolediortopedia/";
 const AREE = {
   "ginocchio-piede": { nome: "Ginocchio, caviglia e piede", colori: ["#30d158", "#00a389", "#6e4fe0"] },
